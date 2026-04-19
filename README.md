@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="SUNNAT JUDO" />
+  <img src="https://raw.githubusercontent.com/sunnatjudo/sunnatjudo/master/name.svg" alt="SUNNAT JUDO" />
 </h1>
 
 ## Hey! 👋
