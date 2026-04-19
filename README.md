@@ -1,6 +1,6 @@
 
 
-
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
  <img width="311" height="162" alt="Unknown-3" src="https://github.com/user-attachments/assets/3100f212-aa7e-483f-990b-9fb7c6fcf7e6" />
-## Hi there 👋
+
 </h1>
 
 ## Hey! 👋
