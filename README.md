@@ -11,15 +11,10 @@ I'm Sunnat, a 23 years old web developer from Uzbekistan.
 
 
 
-- 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, , etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- ⚙️ React,  Vue
+- 👁️ SASS, CSS,
+- 💽 MySQL, SQL, 
 
 ## Contact
-- [ marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
